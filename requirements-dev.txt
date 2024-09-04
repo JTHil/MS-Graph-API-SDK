@@ -72,7 +72,7 @@ azure-identity==1.17.1
 
 certifi==2024.8.30 ; python_version >= '3.6'
 
-cffi==1.17.0
+cffi==1.17.1
 
 charset-normalizer==3.3.2 ; python_version >= '3.7'
 

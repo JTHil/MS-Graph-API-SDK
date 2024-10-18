@@ -112,7 +112,7 @@ msal==1.31.0
 
 msal-extensions==1.2.0
 
-msgraph-core==1.1.4
+msgraph-core==1.1.6
 
 multidict==6.1.0 ; python_version >= '3.7'
 

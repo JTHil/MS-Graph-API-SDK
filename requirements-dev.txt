@@ -104,7 +104,7 @@ microsoft-kiota-serialization-json==1.6.0
 
 microsoft-kiota-serialization-text==1.6.0
 
-microsoft-kiota-serialization-form ==0.1.1
+microsoft-kiota-serialization-form ==1.6.2
 
 microsoft-kiota-serialization-multipart ==0.1.0
 

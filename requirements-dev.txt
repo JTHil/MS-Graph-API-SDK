@@ -4,7 +4,7 @@ astroid==3.3.5 ; python_full_version >= '3.7.2'
 
 build==1.2.2.post1
 
-bumpver==2023.1129
+bumpver==2024.1130
 
 click==8.1.7 ; python_version >= '3.6'
 
